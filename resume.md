@@ -5,17 +5,17 @@ menutitle: Resume
 ---
 ## Currently
 
-Current Position Description
+UX Accessibility Assistant
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+2020 - present
+__Simmons University__
+Master of Library and Information Science
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+2017 - 2020
+__Smith College__
+Bachelor of Arts in Biological Sciences
 
 ## Awards
 
